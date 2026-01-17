@@ -41,8 +41,8 @@
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: seuemail@email.com
+- 💼 [LinkedIn]
+- 📧 Email: 
 
 ---
 
